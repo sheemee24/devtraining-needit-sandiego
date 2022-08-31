@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Contact Tracing Audit" max_length="40" name="x_58872_needit_contact_tracing_audit" sizeclass="0" type="collection">
+        <element label="Contact Tracing Parent Record" max_length="32" name="contact_tracing_parent_record" reference="x_58872_needit_3e9e5b76dbe511103bb2c5860596194c" type="reference"/>
+        <element label="Result" max_length="50" name="result" type="string"/>
+        <index name="index">
+            <element name="contact_tracing_parent_record"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="3e9e5b76dbe511103bb2c5860596194c" language="en" table="x_58872_needit_3e9e5b76dbe511103bb2c5860596194c">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>3e9e5b76dbe511103bb2c5860596194c</label>
+            <language>en</language>
+            <name>x_58872_needit_3e9e5b76dbe511103bb2c5860596194c</name>
+            <plural>3e9e5b76dbe511103bb2c5860596194cs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-30 11:32:46</sys_created_on>
+            <sys_id>95b96372db2911103bb2c586059619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>3e9e5b76dbe511103bb2c5860596194c</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_3e9e5b76dbe511103bb2c5860596194c__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-08-30 11:32:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
